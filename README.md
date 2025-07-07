@@ -464,4 +464,4 @@ More than 300 people already left their fingerprint in LVGL. Be one them! See yo
   <img src="https://contrib.rocks/image?repo=lvgl/lvgl&max=48" />
 </a>
 
-... and many other.
+... and many other. 
